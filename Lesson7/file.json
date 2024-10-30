@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "author": "Author Name",
+      "name": "Book Title",
+      "year": "2023"
+    },
+    {
+      "id": "2",
+      "author": "Another Author",
+      "name": "Another Book Title",
+      "year": "2022"
+    }
+  ]
+}
